@@ -9,7 +9,7 @@ metadata:
 spec:
   project: default
   source: 
-    repoURL: https://github.com/Nonzzo/argocd-deployments
+    repoURL: https://github.com/Nonzzo/argocd-deployments.git
     targetRevision: HEAD 
     path: environments/staging/my-app
   destination:
